@@ -12,6 +12,10 @@ description: >
 license: MIT
 version: "1.4.0"
 homepage: https://www.guaikei.com
+display_name: 抖音搜索爬虫
+display_name_en: Douyin Search Scraper
+description_zh: 抖音搜索、热榜、评论、博主作品、竞品分析、短视频选题、抖音舆情、抖音数据分析
+description_en: Scrape trending Douyin video and caption data. Supported modules, Douyin Search, Creator Posts, Video Details, Hot List, Comments. Four capabilities, (1) Keyword search for videos & image-text content; filter & sort by likes, publish time, duration, content type; (2) Real-time hot list lookup for Douyin trending terms and popularity data; (3) Creator post scraping, get public post lists via profile URL or sec_uid; (4) Video comment analysis, extract comments and engagement data by video URL or aweme_id. Use when, Searching Douyin videos, checking Douyin hot trends, fetching creator post lists, analyzing comment zones, short-video ideation, competitor analysis, social listening, trend tracking, viral content mining, Douyin operational analytics. Trigger words, douyin search, douyin hot list, douyin comment, douyin creator, douyin competitor analysis, short video topic research, douyin public opinion, douyin analytics.
 metadata:
   display-name: 抖音搜索·作品·评论·热榜
   openclaw:
