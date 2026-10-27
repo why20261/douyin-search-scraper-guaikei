@@ -12,6 +12,10 @@ description: >
   触发词：抖音搜索、抖音热榜、抖音评论、抖音博主、抖音竞品分析、短视频选题、抖音舆情、抖音数据分析、douyin search、douyin analytics、douyin comment。
 license: MIT
 version: "1.4.1"
+display_name: 抖音搜索爬虫
+display_name_en: Douyin Search Scraper
+description_zh: 爬取抖音爆款视频和文案数据，支持抖音搜索、抖音博主作品、抖音视频详情、抖音热榜、抖音评论等模块。支持五大能力，(1)关键词搜索视频/图文，可按点赞数、发布时间、时长、内容类型筛选排序；(2)实时热榜查询，获取抖音热搜词条与热度数据；(3)博主作品抓取，按主页链接或sec_uid获取公开作品列表；(4)视频评论分析，按视频链接或aweme_id获取评论内容与互动数据。(5)视频作品详情，按视频链接或aweme_id获取视频详情数据。
+description_en: Scrape Douyin viral video & caption data. Modules Douyin search, creator posts, video details, hot list, comments. Five capabilities (1) Keyword search for videos/image-text posts, filter & sort by likes, publish time, duration, content type; (2) Real-time hot list query for trending terms and popularity; (3) Scrape creator’s public posts by homepage link or sec_uid; (4) Pull comments and engagement data by video link or aweme_id; (5) Fetch video details by video link or aweme_id.
 metadata:
   openclaw:
     emoji: "🎬"
